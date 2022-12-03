@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         easydo
 // @namespace    http://
-// @version      0.2
+// @version      0.3
 // @description  方便人类使用
 // @author       RF_JH
 // @match        *://*
@@ -15,7 +15,7 @@
     'use strict';
 
     // Your code here...
-    console.log("hello new2 world");
+    console.log("hello new3 world");
     
     }
 )();
